@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center"><img src="banner.png" alt="Космический баннер Charles Olivera" width="100%"></p>
 
-<!--
-**pups9827-code/pups9827-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🪐 Технологии</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-24133d?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyQt6-38205a?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6">
+  <img src="https://img.shields.io/badge/SQLite-24133d?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/GitHub-38205a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">✦ ━━━━━━━━━━━━ 💜 ━━━━━━━━━━━━ ✦</p>
+
+<h2 align="center">🌦️ Проект</h2>
+
+<p align="center"><a href="https://github.com/pups9827-code/qt_meteor"><b>Журнал погоды · qt_meteor</b></a></p>
+
+<p align="center">Погодные наблюдения, графики и прогноз на Python и PyQt6.</p>
+
+<p align="center">✦ ━━━━━━━━━━━━ 💜 ━━━━━━━━━━━━ ✦</p>
